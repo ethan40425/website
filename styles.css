@@ -1,0 +1,75 @@
+body {
+    background-color: black;
+}
+
+
+.main{
+  font-family: monospace;
+  
+  font-size: 20px;
+  color: red;
+  margin: 20px;
+  padding: 20px;
+}
+
+
+.funny{
+  font-family: monospace;
+  
+  font-size: 20px;
+  color: red;
+  margin: 20px;
+  padding: 20px;
+}
+
+
+.me{
+  padding: 25px;
+  border: 5px solid red;
+
+}
+
+.max{
+  padding: 10px;
+  margin: 10px;
+  color: red;
+  font-family: monospace;
+
+}
+
+.max-pic{
+  border: 5px solid red;
+  padding: 25px;
+}
+
+.vegan{
+  color: red;
+  font-family: monospace;
+  padding: 25px;
+}
+
+.vgif{
+  border: 5px solid red;
+  padding: 25px;
+}
+
+.funny-g{
+  border: 5px solid red;
+  padding: 25px;
+}
+
+.doug{
+  padding: 25px;
+  border: 5px solid red;
+}
+
+.willow{
+  padding: 25px;
+  border: 5px solid red
+}
+
+.mydogs{
+
+  color: red;
+  font-family: monospace;
+}
